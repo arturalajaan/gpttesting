@@ -1,3 +1,5 @@
+Rimi E-Store goceries:
+
 Item	Weight (g)	Calories	Protein (g)	Carbs (g)	Fat (g)	Price (€)
 Eggs (12 pack)	720	840	72	2	60	2.50
 Milk (1 liter)	1000	640	32	48	24	1.20
